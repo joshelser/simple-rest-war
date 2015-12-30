@@ -1,4 +1,4 @@
-package joshelser;
+package org.apache.slider.war;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
